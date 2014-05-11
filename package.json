@@ -1,7 +1,7 @@
 {
   "name": "gh-members",
   "version": "0.1.0",
-  "description": "fetches info on GitHub org members",
+  "description": "fetches GitHub org members with full profile",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*"
